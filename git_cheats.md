@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-`git init` to initialise  
+`git init` to initialise
 `git status` to see status  
 `git add <filename>` to add file to track  
 `git commit` or `git commit -m "message"` commits: commit adds changes.  
