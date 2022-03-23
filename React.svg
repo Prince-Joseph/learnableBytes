@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="195.43832mm"
+   height="79.446869mm"
+   viewBox="0 0 195.43832 79.446869"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="React.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45250001"
+     inkscape:cx="870.71821"
+     inkscape:cy="-47.513811"
+     inkscape:window-width="1366"
+     inkscape:window-height="734"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect235643" />
+    <rect
+       x="-125.23675"
+       y="-280.57937"
+       width="117.83605"
+       height="21.606893"
+       id="rect174813" />
+    <rect
+       x="397.68027"
+       y="-168.73622"
+       width="244.5082"
+       height="123.34219"
+       id="rect154761" />
+    <rect
+       x="274.91241"
+       y="185.77161"
+       width="264.51019"
+       height="47.004559"
+       id="rect15507" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect10129" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect12571" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect669" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect242187" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect243783" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect235643-0" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="468.78829"
+       height="17.144344"
+       id="rect235643-0-3" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="291.88302"
+       height="16.522865"
+       id="rect235643-0-3-0" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect10129-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.819335,-15.388568)">
+    <rect
+       style="fill:#1a1a1a;stroke-width:1.31255;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect49"
+       width="195.43832"
+       height="79.446869"
+       x="4.819335"
+       y="15.388568" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,-24.687002,-74.997052)"
+       id="text10127"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect10129)"><tspan
+         x="35.679688"
+         y="100.52195"
+         id="tspan9636"><tspan
+           style="fill:#ffffff"
+           id="tspan9634">React State</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,-25.898811,-50.71351)"
+       id="text12569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';white-space:pre;shape-inside:url(#rect12571)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text15505"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect15507)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="13.04697"
+       y="45.12841"
+       id="text21459"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.04697"
+         y="45.12841"
+         id="tspan96821">import { useState } from 'react';</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.04697"
+         y="51.227291"
+         id="tspan96829" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.04697"
+         y="57.326168"
+         id="tspan120696"><tspan
+   style="fill:#f18805"
+   id="tspan120698">const</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan73017">App</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan133189"><tspan
+   style="fill:#f18805"
+   id="tspan135905">=</tspan>() <tspan
+   style="fill:#f18805"
+   id="tspan139279">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.04697"
+         y="63.425049"
+         id="tspan34617"><tspan
+   style="fill:#f18805"
+   id="tspan63635">const</tspan> [<tspan
+   style="fill:#d53535"
+   id="tspan110518">name</tspan>,<tspan
+   style="fill:#d53535"
+   id="tspan112608">changeName</tspan>] = <tspan
+   style="fill:#d53535"
+   id="tspan104578">useState</tspan>('Prince')</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.04697"
+         y="69.523926"
+         id="tspan34613" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.04697"
+         y="75.62281"
+         id="tspan34619"><tspan
+   style="fill:#5bd0f0"
+   id="tspan76133">return</tspan> &lt;button <tspan
+   style="fill:#b8d41e"
+   id="tspan151657">onClick</tspan>={()=&gt; <tspan
+   style="fill:#d53535"
+   id="tspan108164">changeName</tspan>('pj')}&gt; {name} &lt;/button&gt;;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="13.04697"
+         y="81.721687"
+         id="tspan34615">}</tspan></text>
+    <g
+       id="g9467"
+       transform="translate(-206.41083,89.811657)">
+      <rect
+         style="fill:#1a1a1a;stroke-width:1.98548;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect49-6"
+         width="195.43832"
+         height="181.79176"
+         x="212.70229"
+         y="16.969688" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1.0583333,0,0,1.0583333,183.19596,-73.415932)"
+         id="text10127-1"
+         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect10129-2)"><tspan
+           x="35.679688"
+           y="100.52195"
+           id="tspan9640"><tspan
+             style="fill:#ffffff"
+             id="tspan9638">React Router</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+         x="220.92993"
+         y="46.709534"
+         id="text21459-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="46.709534"
+           id="tspan282778"><tspan
+   style="fill:#5bd0f0"
+   id="tspan297266">import</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan307858">{</tspan> BrowserRouter, Routes, Route <tspan
+   style="fill:#5bd0f0"
+   id="tspan311082">}</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan292008">from</tspan> <tspan
+   style="fill:#b8d41e"
+   id="tspan284788">&quot;react-router-dom&quot;</tspan>;</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="52.808414"
+           id="tspan96829-9" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="58.907291"
+           id="tspan34617-9"><tspan
+   style="fill:#f18805"
+   id="tspan120698-0">const</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan73017-2">App</tspan> <tspan
+   id="tspan283832"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan133189-3">() <tspan
+   style="fill:#f18805"
+   id="tspan139279-5">=&gt;</tspan> {</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="65.006172"
+           id="tspan34613-7" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="71.105049"
+           id="tspan34619-3"><tspan
+   style="fill:#5bd0f0"
+   id="tspan76133-6">return</tspan> ( </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="77.203934"
+           id="tspan343270" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583"
+           x="220.92993"
+           y="83.302811"
+           id="tspan343272">&lt;div&gt;</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="89.401695"
+           id="tspan363840">  <tspan
+   style="fill:#d53535"
+   id="tspan385556">&lt;nav&gt; </tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="95.500572"
+           id="tspan365572">    <tspan
+   style="fill:#5bd0f0"
+   id="tspan402244">&lt;a</tspan> href=<tspan
+   style="fill:#b8d41e"
+   id="tspan393362">&quot;/&quot;</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan405282">&gt;</tspan>Home<tspan
+   style="fill:#5bd0f0"
+   id="tspan409882">&lt;/a&gt;</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="101.59945"
+           id="tspan365574">    <tspan
+   style="fill:#5bd0f0"
+   id="tspan400286">&lt;a</tspan> href=<tspan
+   style="fill:#b8d41e"
+   id="tspan394858">&quot;/about&quot;</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan407330">&gt;</tspan>About<tspan
+   style="fill:#5bd0f0"
+   id="tspan413082">&lt;/a&gt;</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="107.69833"
+           id="tspan365570">  <tspan
+   style="fill:#d53535"
+   id="tspan390174">&lt;/nav&gt;</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="113.79721"
+           id="tspan359980" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+           x="220.92993"
+           y="119.89609"
+           id="tspan353336">  &lt;BrowserRouter&gt;</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+           x="220.92993"
+           y="125.99497"
+           id="tspan446692">    &lt;Routes&gt;</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+           x="220.92993"
+           y="132.09386"
+           id="tspan355912">      <tspan
+   style="fill:#5bd0f0"
+   id="tspan440784">&lt;</tspan>Route path=<tspan
+   style="fill:#b8d41e"
+   id="tspan419162">&quot;/&quot;</tspan> <tspan
+   style="fill:#ffffff"
+   id="tspan423288">element={</tspan>&lt;Home /&gt;<tspan
+   style="fill:#ffffff"
+   id="tspan426260">}</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan434480">/&gt;</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+           x="220.92993"
+           y="138.19273"
+           id="tspan345904">      <tspan
+   style="fill:#5bd0f0"
+   id="tspan442112">&lt;</tspan>Route path=<tspan
+   style="fill:#b8d41e"
+   id="tspan420706">&quot;/about&quot;</tspan> <tspan
+   style="fill:#ffffff"
+   id="tspan429268">element={</tspan>&lt;About /&gt;<tspan
+   style="fill:#ffffff"
+   id="tspan431076">}</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan437320">/&gt;</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+           x="220.92993"
+           y="144.29161"
+           id="tspan356508">    &lt;/Routes&gt;</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+           x="220.92993"
+           y="150.39049"
+           id="tspan446694">  &lt;BrowserRouter&gt;</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+           x="220.92993"
+           y="156.48936"
+           id="tspan448880" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583"
+           x="220.92993"
+           y="162.58826"
+           id="tspan343268">&lt;/div&gt;</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="168.68713"
+           id="tspan328944" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="174.78601"
+           id="tspan321512" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="220.92993"
+           y="180.88489"
+           id="tspan321514">);</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+           x="220.92993"
+           y="186.98376"
+           id="tspan34615-9">}</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;inline-size:102.643;fill:#ffffff;stroke-width:0.264583"
+       x="12.665151"
+       y="-26.951841"
+       id="text667-3" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.819335,15.388568)"
+       id="text174811"
+       style="line-height:1.25;font-family:Mukta;font-size:17.33333333px;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect174813)" />
+    <g
+       id="g9405"
+       transform="translate(75.14601,-7.9615864)">
+      <rect
+         style="fill:#1a1a1a;stroke-width:1.95551;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect621"
+         width="342.22803"
+         height="100.70877"
+         x="-71.817619"
+         y="-94.027428" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1.0583333,0,0,1.0583333,-87.887328,-177.93926)"
+         id="text627"
+         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect669)"><tspan
+           x="35.679688"
+           y="100.52195"
+           id="tspan9644"><tspan
+             style="fill:#ffffff"
+             id="tspan9642">React Basics</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+         x="13.64232"
+         y="-56.202103"
+         id="text667"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="13.64232"
+           y="-56.202103"
+           id="tspan629">import <tspan
+   style="fill:#5bd0f0"
+   id="tspan28651">ReactDOM</tspan> from '<tspan
+   style="fill:#b8d41e"
+   id="tspan33675">react-dom</tspan>';</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="13.64232"
+           y="-50.103222"
+           id="tspan631">import <tspan
+   style="fill:#f18805"
+   id="tspan20489">App</tspan> from '.<tspan
+   style="fill:#b8d41e"
+   id="tspan38861">/App</tspan>'</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+           x="13.64232"
+           y="-44.004345"
+           id="tspan2556" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+           x="13.64232"
+           y="-37.905464"
+           id="tspan665">ReactDOM.render<tspan
+   style="fill:#ffffff"
+   id="tspan4323">(<tspan
+   style="fill:#f18805"
+   id="tspan17043">&lt;App/&gt;</tspan>,document.getElementById('<tspan
+   style="fill:#b8d41e"
+   id="tspan42151">root</tspan>'))</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+         x="178.61867"
+         y="-61.778725"
+         id="text87597"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+           x="178.61867"
+           y="-61.778725"
+           id="tspan87595"><tspan
+   style="fill:#d53535"
+   id="tspan123039">const</tspan> <tspan
+   style="fill:#f18805"
+   id="tspan103953">App</tspan> <tspan
+   style="fill:#ffffff"
+   id="tspan139841">= () =&gt;</tspan> {</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+           x="178.61867"
+           y="-55.679844"
+           id="tspan97229">  return <tspan
+   style="fill:#d53535"
+   id="tspan127253">&lt;p&gt;</tspan><tspan
+   style="fill:#ffffff"
+   id="tspan134859">your html</tspan><tspan
+   style="fill:#d53535"
+   id="tspan131557">&lt;/p&gt;</tspan><tspan
+   style="fill:#ffffff"
+   id="tspan150805">;</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+           x="178.61867"
+           y="-49.580967"
+           id="tspan97231">}</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+           x="178.61867"
+           y="-43.482086"
+           id="tspan97227">export default <tspan
+   style="fill:#f18805"
+   id="tspan108617">App</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-157.89635,-16.378181)"
+         id="text154759"
+         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect154761)"><tspan
+           x="397.67969"
+           y="-154.78469"
+           id="tspan9650"><tspan
+             style="fill:#5bd0f0"
+             id="tspan9646">&lt;html&gt;</tspan><tspan
+             style="fill:#d53535"
+             id="tspan9648">
+</tspan></tspan><tspan
+           x="397.67969"
+           y="-133.11806"
+           id="tspan9656"><tspan
+             style="fill:#d53535"
+             id="tspan9652">&lt;body&gt;</tspan><tspan
+             style="fill:#ffffff"
+             id="tspan9654">
+</tspan></tspan><tspan
+           x="397.67969"
+           y="-111.45144"
+           id="tspan9666"><tspan
+             style="fill:#f18805"
+             id="tspan9658">&lt;div</tspan><tspan
+             style="fill:#ffffff"
+             id="tspan9660"> id=&quot;root&quot;</tspan><tspan
+             style="fill:#f18805"
+             id="tspan9662">&gt;&lt;/div&gt;</tspan><tspan
+             style="fill:#ffffff"
+             id="tspan9664">
+</tspan></tspan><tspan
+           x="397.67969"
+           y="-89.784813"
+           id="tspan9672"><tspan
+             style="fill:#d53535"
+             id="tspan9668">&lt;/body&gt;</tspan><tspan
+             style="fill:#ffffff"
+             id="tspan9670">
+</tspan></tspan><tspan
+           x="397.67969"
+           y="-68.118187"
+           id="tspan9676"><tspan
+             style="fill:#5bd0f0"
+             id="tspan9674">&lt;html&gt;</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,8.372425,17.625503)"
+         id="text235641"
+         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643);fill:#ffffff"><tspan
+           x="-229.89258"
+           y="-144.06985"
+           id="tspan9678">public/index.html</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458332,0,0,0.26458332,8.2746278,22.553348)"
+         id="text235641-9"
+         style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0);fill:#ffffff"><tspan
+           x="-229.89258"
+           y="-147.28946"
+           id="tspan9680">Canvas for React App</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458332,0,0,0.26458332,73.719279,21.470177)"
+         id="text235641-9-6"
+         style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3);fill:#ffffff"><tspan
+           x="-229.89258"
+           y="-147.28946"
+           id="tspan9682">Renders Content into index.html from Functional Components as App.tsx</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458332,0,0,0.26458332,240.53104,20.715108)"
+         id="text235641-9-6-6"
+         style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3-0);fill:#ffffff"><tspan
+           x="-229.89258"
+           y="-147.28946"
+           id="tspan9684">Exports Content  where it is imported and called.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,74.029064,16.790018)"
+         id="text242185"
+         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect242187);fill:#ffffff"><tspan
+           x="-229.89258"
+           y="-144.06985"
+           id="tspan9686">src/index.tsx</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,241.38471,15.373752)"
+         id="text243781"
+         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect243783);fill:#ffffff"><tspan
+           x="-229.89258"
+           y="-144.06985"
+           id="tspan9688">src/App.tsx</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -43,7 +43,7 @@ $ sudo apt install npm # npm install
 $ npm
 ```
 
------------
+---
 
 ## Procedure to Create A React App
 
@@ -394,7 +394,7 @@ The content in the name can be extracted by props.
 Classes use `this.props.name`
 
 #### Callback `props`
-Since Callback is generally uni-directional Parent to Child. We cannot communicate backwards from Child to Parent. Work around to that is Callback props.  
+It is generally uni-directional Parent to Child. We cannot communicate backwards from Child to Parent. Work around to that is Callback props.  
 This can be acheived by created a function in Parent and call the props from the child.
 ```JSX
 // In Parent Component
@@ -418,7 +418,10 @@ function Child(props){
 
 ### `state`
 `state` are modifiable passable objects.
-****
+
+[Relation of state and Props: Beutifully Explained](https://stackoverflow.com/a/27992380)
+
+---
 
 ### Passing `JSON` Data
 Simlarly you can pass `JSON` Data.
@@ -493,6 +496,7 @@ return (
 >```
 
 ---
+
 >*Note:*
 >From `React` Library, We retrieve the function `React.createElement()`. 
 >
