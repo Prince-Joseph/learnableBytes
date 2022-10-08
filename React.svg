@@ -11,6 +11,7 @@
    sodipodi:docname="React.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.45250001"
-     inkscape:cx="870.71821"
-     inkscape:cy="-47.513811"
+     inkscape:zoom="0.43321425"
+     inkscape:cx="1161.0883"
+     inkscape:cy="1329.5962"
      inkscape:window-width="1366"
      inkscape:window-height="734"
      inkscape:window-x="0"
@@ -38,6 +39,144 @@
      fit-margin-bottom="0" />
   <defs
      id="defs2">
+    <rect
+       x="1850.576"
+       y="1138.7901"
+       width="407.64793"
+       height="326.05486"
+       id="rect246382" />
+    <rect
+       x="934.4175"
+       y="1729.581"
+       width="196.40047"
+       height="29.99892"
+       id="rect234198" />
+    <rect
+       x="951.68614"
+       y="1633.4405"
+       width="106.53327"
+       height="61.810487"
+       id="rect230084" />
+    <rect
+       x="955.18377"
+       y="1637.805"
+       width="55.527609"
+       height="17.53336"
+       id="rect227006" />
+    <rect
+       x="50.388331"
+       y="1631.7972"
+       width="123.65008"
+       height="63.989965"
+       id="rect217708" />
+    <marker
+       style="overflow:visible"
+       id="marker197140"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path197138" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path154107" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path154174" />
+    </marker>
+    <marker
+       inkscape:stockid="DistanceStart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2300">
+        <path
+           id="path2306"
+           d="M 0,0 L 2,0"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2302"
+           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2304"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path154116" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path154156" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path154095" />
+    </marker>
     <rect
        x="-229.89262"
        y="-158.02216"
@@ -116,6 +255,148 @@
        width="173.04724"
        height="74.808853"
        id="rect10129-2" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect10129-2-6" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect10129-2-5" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect242187-4" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="468.7883"
+       height="17.144344"
+       id="rect235643-0-3-3" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect242187-4-8" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="468.7883"
+       height="17.144344"
+       id="rect235643-0-3-3-6" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="468.7883"
+       height="17.144344"
+       id="rect108010" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect108012" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="468.7883"
+       height="17.144344"
+       id="rect108014" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect108016" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect108012-7" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="468.7883"
+       height="17.144344"
+       id="rect108010-3" />
+    <marker
+       style="overflow:visible"
+       id="DotL-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path154156-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path154116-3" />
+    </marker>
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="173.16962"
+       height="40.663818"
+       id="rect108016-9" />
+    <rect
+       x="-229.89262"
+       y="-158.02216"
+       width="468.7883"
+       height="17.144344"
+       id="rect108014-4" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect197650" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect197650-6" />
+    <rect
+       x="35.678886"
+       y="86.569832"
+       width="173.04724"
+       height="74.808853"
+       id="rect197650-6-1" />
+    <rect
+       x="50.388332"
+       y="1631.7972"
+       width="123.65008"
+       height="63.989964"
+       id="rect217708-8" />
+    <rect
+       x="50.388332"
+       y="1631.7972"
+       width="123.65008"
+       height="63.989964"
+       id="rect217708-8-4" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -136,9 +417,9 @@
        style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect10129)"><tspan
          x="35.679688"
          y="100.52195"
-         id="tspan9636"><tspan
+         id="tspan252045"><tspan
            style="fill:#ffffff"
-           id="tspan9634">React State</tspan></tspan></text>
+           id="tspan252043">React State</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.0583333,0,0,1.0583333,-25.898811,-50.71351)"
@@ -149,6 +430,209 @@
        transform="scale(0.26458333)"
        id="text15505"
        style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect15507)" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:1.95551;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect621"
+       width="342.22803"
+       height="100.70877"
+       x="3.3283906"
+       y="-101.98901" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:3.25773;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect621-3"
+       width="442.04938"
+       height="216.38359"
+       x="2.6432574"
+       y="293.20657"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,-12.741318,-185.90085)"
+       id="text627"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect669)"><tspan
+         x="35.679688"
+         y="100.52195"
+         id="tspan252049"><tspan
+           style="fill:#ffffff"
+           id="tspan252047">React Basics</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="88.78833"
+       y="-64.163689"
+       id="text667"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="88.78833"
+         y="-64.163689"
+         id="tspan629">import <tspan
+   style="fill:#5bd0f0"
+   id="tspan28651">ReactDOM</tspan> from '<tspan
+   style="fill:#b8d41e"
+   id="tspan33675">react-dom</tspan>';</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="88.78833"
+         y="-58.064808"
+         id="tspan631">import <tspan
+   style="fill:#f18805"
+   id="tspan20489">App</tspan> from '.<tspan
+   style="fill:#b8d41e"
+   id="tspan38861">/App</tspan>'</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="88.78833"
+         y="-51.965931"
+         id="tspan2556" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="88.78833"
+         y="-45.86705"
+         id="tspan665">ReactDOM.render<tspan
+   style="fill:#ffffff"
+   id="tspan4323">(<tspan
+   style="fill:#f18805"
+   id="tspan17043">&lt;App/&gt;</tspan>,document.getElementById('<tspan
+   style="fill:#b8d41e"
+   id="tspan42151">root</tspan>'))</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="253.76468"
+       y="-69.740311"
+       id="text87597"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="253.76468"
+         y="-69.740311"
+         id="tspan87595"><tspan
+   style="fill:#d53535"
+   id="tspan123039">const</tspan> <tspan
+   style="fill:#f18805"
+   id="tspan103953">App</tspan> <tspan
+   style="fill:#ffffff"
+   id="tspan139841">= () =&gt;</tspan> {</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="253.76468"
+         y="-63.64143"
+         id="tspan97229">  return <tspan
+   style="fill:#d53535"
+   id="tspan127253">&lt;p&gt;</tspan><tspan
+   style="fill:#ffffff"
+   id="tspan134859">your html</tspan><tspan
+   style="fill:#d53535"
+   id="tspan131557">&lt;/p&gt;</tspan><tspan
+   style="fill:#ffffff"
+   id="tspan150805">;</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="253.76468"
+         y="-57.542553"
+         id="tspan97231">}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="253.76468"
+         y="-51.443672"
+         id="tspan97227">export default <tspan
+   style="fill:#f18805"
+   id="tspan108617">App</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-82.75034,-24.339767)"
+       id="text154759"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect154761)"><tspan
+         x="397.67969"
+         y="-154.78469"
+         id="tspan252055"><tspan
+           style="fill:#5bd0f0"
+           id="tspan252051">&lt;html&gt;</tspan><tspan
+           style="fill:#d53535"
+           id="tspan252053">
+</tspan></tspan><tspan
+         x="397.67969"
+         y="-133.11806"
+         id="tspan252061"><tspan
+           style="fill:#d53535"
+           id="tspan252057">&lt;body&gt;</tspan><tspan
+           style="fill:#ffffff"
+           id="tspan252059">
+</tspan></tspan><tspan
+         x="397.67969"
+         y="-111.45144"
+         id="tspan252071"><tspan
+           style="fill:#f18805"
+           id="tspan252063">&lt;div</tspan><tspan
+           style="fill:#ffffff"
+           id="tspan252065"> id=&quot;root&quot;</tspan><tspan
+           style="fill:#f18805"
+           id="tspan252067">&gt;&lt;/div&gt;</tspan><tspan
+           style="fill:#ffffff"
+           id="tspan252069">
+</tspan></tspan><tspan
+         x="397.67969"
+         y="-89.784813"
+         id="tspan252077"><tspan
+           style="fill:#d53535"
+           id="tspan252073">&lt;/body&gt;</tspan><tspan
+           style="fill:#ffffff"
+           id="tspan252075">
+</tspan></tspan><tspan
+         x="397.67969"
+         y="-68.118187"
+         id="tspan252081"><tspan
+           style="fill:#5bd0f0"
+           id="tspan252079">&lt;html&gt;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,83.518435,9.6639166)"
+       id="text235641"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643);fill:#ffffff"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252083">public/index.html</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,83.420638,14.591762)"
+       id="text235641-9"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0);fill:#ffffff"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252085">Canvas for React App</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,149.54398,13.885733)"
+       id="text235641-9-6"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3);fill:#ffffff"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252087">Renders Content into index.html from Functional Components as App.tsx</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,315.67705,12.753522)"
+       id="text235641-9-6-6"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3-0);fill:#ffffff"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252089">Exports Content  where it is imported and called.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,149.85377,9.2055736)"
+       id="text242185"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect242187);fill:#ffffff"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252091">src/index.tsx</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,316.53072,7.4121656)"
+       id="text243781"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect243783);fill:#ffffff"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252093">src/App.tsx</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
@@ -214,37 +698,34 @@
          x="13.04697"
          y="81.721687"
          id="tspan34615">}</tspan></text>
-    <g
-       id="g9467"
-       transform="translate(-206.41083,89.811657)">
-      <rect
-         style="fill:#1a1a1a;stroke-width:1.98548;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         id="rect49-6"
-         width="195.43832"
-         height="181.79176"
-         x="212.70229"
-         y="16.969688" />
-      <text
-         xml:space="preserve"
-         transform="matrix(1.0583333,0,0,1.0583333,183.19596,-73.415932)"
-         id="text10127-1"
-         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect10129-2)"><tspan
-           x="35.679688"
-           y="100.52195"
-           id="tspan9640"><tspan
-             style="fill:#ffffff"
-             id="tspan9638">React Router</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
-         x="220.92993"
-         y="46.709534"
-         id="text21459-8"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="46.709534"
-           id="tspan282778"><tspan
+    <rect
+       style="fill:#1a1a1a;stroke-width:1.98548;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect49-6"
+       width="195.43832"
+       height="181.79176"
+       x="6.2914557"
+       y="106.78135" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,-23.21487,16.395725)"
+       id="text10127-1"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect10129-2)"><tspan
+         x="35.679688"
+         y="100.52195"
+         id="tspan252097"><tspan
+           style="fill:#ffffff"
+           id="tspan252095">React Router</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="14.519102"
+       y="136.52119"
+       id="text21459-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="136.52119"
+         id="tspan282778"><tspan
    style="fill:#5bd0f0"
    id="tspan297266">import</tspan> <tspan
    style="fill:#5bd0f0"
@@ -255,16 +736,16 @@
    id="tspan292008">from</tspan> <tspan
    style="fill:#b8d41e"
    id="tspan284788">&quot;react-router-dom&quot;</tspan>;</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="52.808414"
-           id="tspan96829-9" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="58.907291"
-           id="tspan34617-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="142.62007"
+         id="tspan96829-9" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="148.71895"
+         id="tspan34617-9"><tspan
    style="fill:#f18805"
    id="tspan120698-0">const</tspan> <tspan
    style="fill:#5bd0f0"
@@ -275,40 +756,40 @@
    id="tspan133189-3">() <tspan
    style="fill:#f18805"
    id="tspan139279-5">=&gt;</tspan> {</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="65.006172"
-           id="tspan34613-7" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="71.105049"
-           id="tspan34619-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="154.81783"
+         id="tspan34613-7" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="160.9167"
+         id="tspan34619-3"><tspan
    style="fill:#5bd0f0"
    id="tspan76133-6">return</tspan> ( </tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="77.203934"
-           id="tspan343270" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583"
-           x="220.92993"
-           y="83.302811"
-           id="tspan343272">&lt;div&gt;</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="89.401695"
-           id="tspan363840">  <tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="167.01559"
+         id="tspan343270" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583"
+         x="14.519102"
+         y="173.11447"
+         id="tspan343272">&lt;div&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="179.21335"
+         id="tspan363840">  <tspan
    style="fill:#d53535"
    id="tspan385556">&lt;nav&gt; </tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="95.500572"
-           id="tspan365572">    <tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="185.31223"
+         id="tspan365572">    <tspan
    style="fill:#5bd0f0"
    id="tspan402244">&lt;a</tspan> href=<tspan
    style="fill:#b8d41e"
@@ -317,11 +798,11 @@
    id="tspan405282">&gt;</tspan>Home<tspan
    style="fill:#5bd0f0"
    id="tspan409882">&lt;/a&gt;</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="101.59945"
-           id="tspan365574">    <tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="191.4111"
+         id="tspan365574">    <tspan
    style="fill:#5bd0f0"
    id="tspan400286">&lt;a</tspan> href=<tspan
    style="fill:#b8d41e"
@@ -330,33 +811,33 @@
    id="tspan407330">&gt;</tspan>About<tspan
    style="fill:#5bd0f0"
    id="tspan413082">&lt;/a&gt;</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="107.69833"
-           id="tspan365570">  <tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="197.50999"
+         id="tspan365570">  <tspan
    style="fill:#d53535"
    id="tspan390174">&lt;/nav&gt;</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="113.79721"
-           id="tspan359980" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
-           x="220.92993"
-           y="119.89609"
-           id="tspan353336">  &lt;BrowserRouter&gt;</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
-           x="220.92993"
-           y="125.99497"
-           id="tspan446692">    &lt;Routes&gt;</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
-           x="220.92993"
-           y="132.09386"
-           id="tspan355912">      <tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="203.60887"
+         id="tspan359980" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+         x="14.519102"
+         y="209.70775"
+         id="tspan353336">  &lt;BrowserRouter&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+         x="14.519102"
+         y="215.80663"
+         id="tspan446692">    &lt;Routes&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+         x="14.519102"
+         y="221.90552"
+         id="tspan355912">      <tspan
    style="fill:#5bd0f0"
    id="tspan440784">&lt;</tspan>Route path=<tspan
    style="fill:#b8d41e"
@@ -367,11 +848,11 @@
    id="tspan426260">}</tspan> <tspan
    style="fill:#5bd0f0"
    id="tspan434480">/&gt;</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
-           x="220.92993"
-           y="138.19273"
-           id="tspan345904">      <tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+         x="14.519102"
+         y="228.00439"
+         id="tspan345904">      <tspan
    style="fill:#5bd0f0"
    id="tspan442112">&lt;</tspan>Route path=<tspan
    style="fill:#b8d41e"
@@ -382,47 +863,159 @@
    id="tspan431076">}</tspan> <tspan
    style="fill:#5bd0f0"
    id="tspan437320">/&gt;</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
-           x="220.92993"
-           y="144.29161"
-           id="tspan356508">    &lt;/Routes&gt;</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
-           x="220.92993"
-           y="150.39049"
-           id="tspan446694">  &lt;BrowserRouter&gt;</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
-           x="220.92993"
-           y="156.48936"
-           id="tspan448880" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583"
-           x="220.92993"
-           y="162.58826"
-           id="tspan343268">&lt;/div&gt;</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="168.68713"
-           id="tspan328944" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="174.78601"
-           id="tspan321512" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="220.92993"
-           y="180.88489"
-           id="tspan321514">);</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
-           x="220.92993"
-           y="186.98376"
-           id="tspan34615-9">}</tspan></text>
-    </g>
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+         x="14.519102"
+         y="234.10327"
+         id="tspan356508">    &lt;/Routes&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+         x="14.519102"
+         y="240.20215"
+         id="tspan446694">  &lt;BrowserRouter&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"
+         x="14.519102"
+         y="246.30103"
+         id="tspan448880" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583"
+         x="14.519102"
+         y="252.39992"
+         id="tspan343268">&lt;/div&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="258.49878"
+         id="tspan328944" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="264.59766"
+         id="tspan321512" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.519102"
+         y="270.69653"
+         id="tspan321514">);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="14.519102"
+         y="276.79541"
+         id="tspan34615-9">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="14.610504"
+       y="340.45328"
+       id="text21459-8-5"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.610504"
+         y="340.45328"
+         id="tspan23960">import <tspan
+   style="fill:#f18805"
+   id="tspan49262">Kid</tspan> from <tspan
+   style="fill:#b8d41e"
+   id="tspan38464">'./Kid'</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.610504"
+         y="346.55215"
+         id="tspan24026"><tspan
+   style="fill:#f18805"
+   id="tspan24028">const</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan73017-2-6">App</tspan> <tspan
+   id="tspan283832-0"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan133189-3-6">() <tspan
+   style="fill:#f18805"
+   id="tspan139279-5-2">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="14.610504"
+         y="352.65103"
+         id="tspan321514-1"><tspan
+   style="fill:#5bd0f0"
+   id="tspan76133-6-8">return</tspan> ( <tspan
+   id="tspan21075"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;div&gt;</tspan><tspan
+   id="tspan21069"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"> &lt;Kid /&gt; </tspan><tspan
+   id="tspan19390"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;/div&gt; </tspan>);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="14.610504"
+         y="358.74991"
+         id="tspan34615-9-5">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="13.102307"
+       y="390.4415"
+       id="text21459-8-5-5"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.102307"
+         y="390.4415"
+         id="tspan24026-5"><tspan
+   style="fill:#f18805"
+   id="tspan24028-6">const</tspan> Kid <tspan
+   id="tspan283832-0-3"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan133189-3-6-7">() <tspan
+   style="fill:#f18805"
+   id="tspan139279-5-2-4">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="13.102307"
+         y="396.54037"
+         id="tspan321514-1-5"><tspan
+   style="fill:#5bd0f0"
+   id="tspan76133-6-8-2">return</tspan> ( <tspan
+   id="tspan21075-5"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;h1&gt;</tspan><tspan
+   id="tspan21069-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"> <tspan
+   style="fill:#ffffff"
+   id="tspan104316">Kid say Hi!</tspan> </tspan><tspan
+   id="tspan19390-7"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;/h1&gt; </tspan>);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="13.102307"
+         y="402.63925"
+         id="tspan34615-9-5-4">}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="13.102307"
+         y="408.73813"
+         id="tspan81578">export default <tspan
+   style="fill:#ffffff"
+   id="tspan84022">Kid</tspan>;</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,-27.746596,203.86082)"
+       id="text10127-1-3"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect10129-2-5)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="35.679688"
+         y="100.52195"
+         id="tspan252101"><tspan
+           style="fill:#ffffff"
+           id="tspan252099">React props</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;inline-size:102.643;fill:#ffffff;stroke-width:0.264583"
@@ -434,202 +1027,959 @@
        transform="matrix(0.26458333,0,0,0.26458333,4.819335,15.388568)"
        id="text174811"
        style="line-height:1.25;font-family:Mukta;font-size:17.33333333px;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect174813)" />
-    <g
-       id="g9405"
-       transform="translate(75.14601,-7.9615864)">
-      <rect
-         style="fill:#1a1a1a;stroke-width:1.95551;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         id="rect621"
-         width="342.22803"
-         height="100.70877"
-         x="-71.817619"
-         y="-94.027428" />
-      <text
-         xml:space="preserve"
-         transform="matrix(1.0583333,0,0,1.0583333,-87.887328,-177.93926)"
-         id="text627"
-         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect669)"><tspan
-           x="35.679688"
-           y="100.52195"
-           id="tspan9644"><tspan
-             style="fill:#ffffff"
-             id="tspan9642">React Basics</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
-         x="13.64232"
-         y="-56.202103"
-         id="text667"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="13.64232"
-           y="-56.202103"
-           id="tspan629">import <tspan
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,74.951783,407.91712)"
+       id="text235641-9-6-0"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3-3);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252103">Parent Compenent. Renders content into index.tsx </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,75.261573,403.23696)"
+       id="text242185-7"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect242187-4);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252105">src/App.tsx</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,73.537081,459.20032)"
+       id="text235641-9-6-0-8"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3-3-6);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252107">Child Compenent. Renders content into index.tsx </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,73.846871,454.52016)"
+       id="text242185-7-8"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect242187-4-8);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252109">src/Kid.tsx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="117.41309"
+       y="339.69232"
+       id="text107962"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="117.41309"
+         y="339.69232"
+         id="tspan107936">import <tspan
+   style="fill:#f18805"
+   id="tspan107932">Kid</tspan> from <tspan
+   style="fill:#b8d41e"
+   id="tspan107934">'./Kid'</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="117.41309"
+         y="345.7912"
+         id="tspan107948"><tspan
+   style="fill:#f18805"
+   id="tspan107938">const</tspan> <tspan
    style="fill:#5bd0f0"
-   id="tspan28651">ReactDOM</tspan> from '<tspan
+   id="tspan107940">App</tspan> <tspan
+   id="tspan107942"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan107946">() <tspan
+   style="fill:#f18805"
+   id="tspan107944">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="117.41309"
+         y="351.89008"
+         id="tspan107958"><tspan
+   style="fill:#5bd0f0"
+   id="tspan107950">return</tspan> ( <tspan
+   id="tspan107952"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;div&gt;</tspan><tspan
+   id="tspan107954"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"> &lt;Kid <tspan
+   style="fill:#ffffff"
+   id="tspan143836">name=</tspan><tspan
    style="fill:#b8d41e"
-   id="tspan33675">react-dom</tspan>';</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="13.64232"
-           y="-50.103222"
-           id="tspan631">import <tspan
+   id="tspan131998">&quot;kiddo&quot;</tspan> /&gt; </tspan><tspan
+   id="tspan107956"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;/div&gt; </tspan>);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="117.41309"
+         y="357.98895"
+         id="tspan107960">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="115.90488"
+       y="389.68054"
+       id="text107992"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="115.90488"
+         y="389.68054"
+         id="tspan107972"><tspan
    style="fill:#f18805"
-   id="tspan20489">App</tspan> from '.<tspan
+   id="tspan107964">const</tspan> Kid <tspan
+   id="tspan107966"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan107970">(<tspan
+   style="fill:#d53535"
+   id="tspan148338">props : {name:string}</tspan>) <tspan
+   style="fill:#f18805"
+   id="tspan107968">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="115.90488"
+         y="395.77942"
+         id="tspan107984"><tspan
+   style="fill:#5bd0f0"
+   id="tspan107974">return</tspan> ( <tspan
+   id="tspan107976"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;h1&gt;</tspan><tspan
+   id="tspan107980"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"> {props.name}<tspan
+   style="fill:#ffffff"
+   id="tspan107978"> say Hi!</tspan> </tspan><tspan
+   id="tspan107982"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;/h1&gt; </tspan>);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="115.90488"
+         y="401.8783"
+         id="tspan107986">}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="115.90488"
+         y="407.97717"
+         id="tspan107990">export default <tspan
+   style="fill:#ffffff"
+   id="tspan107988">Kid</tspan>;</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,178.06416,402.47602)"
+       id="text108000"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108012);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252111">src/App.tsx</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,176.33967,458.43938)"
+       id="text108004"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108014);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252113">Child Compenent. Renders content into index.tsx </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,176.64946,453.75922)"
+       id="text108008"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108016);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252115">src/Kid.tsx</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#5bd0f0;stroke-width:0.391054;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#DotL);marker-end:url(#Arrow2Lend);stop-color:#000000;stop-opacity:1"
+       d="m 186.50265,354.90554 c 0,0 17.16096,19.20004 6.10503,18.20745 -8.84834,-0.7944 -10.09966,10.6362 -10.09966,10.6362"
+       id="path152618"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,177.75437,407.15618)"
+       id="text107996"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108010);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252117">Parent Compenent. Renders content into index.tsx </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="249.46429"
+       y="336.80295"
+       id="text107962-8"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="249.46429"
+         y="336.80295"
+         id="tspan107936-1">import <tspan
+   style="fill:#f18805"
+   id="tspan107932-2">Kid</tspan> from <tspan
    style="fill:#b8d41e"
-   id="tspan38861">/App</tspan>'</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
-           x="13.64232"
-           y="-44.004345"
-           id="tspan2556" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
-           x="13.64232"
-           y="-37.905464"
-           id="tspan665">ReactDOM.render<tspan
-   style="fill:#ffffff"
-   id="tspan4323">(<tspan
+   id="tspan107934-9">'./Kid'</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="249.46429"
+         y="342.90182"
+         id="tspan107948-3"><tspan
    style="fill:#f18805"
-   id="tspan17043">&lt;App/&gt;</tspan>,document.getElementById('<tspan
-   style="fill:#b8d41e"
-   id="tspan42151">root</tspan>'))</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
-         x="178.61867"
-         y="-61.778725"
-         id="text87597"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
-           x="178.61867"
-           y="-61.778725"
-           id="tspan87595"><tspan
-   style="fill:#d53535"
-   id="tspan123039">const</tspan> <tspan
+   id="tspan107938-9">const</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan107940-0">App</tspan> <tspan
+   id="tspan107942-8"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan107946-8">() <tspan
    style="fill:#f18805"
-   id="tspan103953">App</tspan> <tspan
+   id="tspan107944-5">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="249.46429"
+         y="349.0007"
+         id="tspan160517">const testfunc = () =&gt; console.log('it works')</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="249.46429"
+         y="355.09958"
+         id="tspan107958-0"><tspan
+   style="fill:#5bd0f0"
+   id="tspan107950-9">return</tspan> ( <tspan
+   id="tspan107952-6"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;div&gt;</tspan><tspan
+   id="tspan107954-3"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"> &lt;Kid <tspan
    style="fill:#ffffff"
-   id="tspan139841">= () =&gt;</tspan> {</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
-           x="178.61867"
-           y="-55.679844"
-           id="tspan97229">  return <tspan
-   style="fill:#d53535"
-   id="tspan127253">&lt;p&gt;</tspan><tspan
-   style="fill:#ffffff"
-   id="tspan134859">your html</tspan><tspan
-   style="fill:#d53535"
-   id="tspan131557">&lt;/p&gt;</tspan><tspan
-   style="fill:#ffffff"
-   id="tspan150805">;</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
-           x="178.61867"
-           y="-49.580967"
-           id="tspan97231">}</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
-           x="178.61867"
-           y="-43.482086"
-           id="tspan97227">export default <tspan
+   id="tspan143836-8">funky={testfunc}</tspan> /&gt; </tspan><tspan
+   id="tspan107956-6"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;/div&gt; </tspan>);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="249.46429"
+         y="361.19846"
+         id="tspan107960-1">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="250.93657"
+       y="388.89655"
+       id="text107992-1"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="250.93657"
+         y="388.89655"
+         id="tspan107972-5"><tspan
    style="fill:#f18805"
-   id="tspan108617">App</tspan></tspan></text>
+   id="tspan107964-9">const</tspan> Kid <tspan
+   id="tspan107966-8"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan107970-4">(<tspan
+   style="fill:#d53535"
+   id="tspan148338-8">props : {funky:any}</tspan>) <tspan
+   style="fill:#f18805"
+   id="tspan107968-1">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="250.93657"
+         y="394.99542"
+         id="tspan107984-0"><tspan
+   style="fill:#5bd0f0"
+   id="tspan107974-3">return</tspan> ( <tspan
+   id="tspan107976-0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;button <tspan
+   style="fill:#ffffff"
+   id="tspan186017">onclick</tspan><tspan
+   style="fill:#f18805"
+   id="tspan192199">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan192597">{</tspan><tspan
+   style="fill:#ffffff"
+   id="tspan193921">()=&gt;</tspan> <tspan
+   style="fill:#f18805"
+   id="tspan194385">props.funky</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan192599">}</tspan>&gt; </tspan>click me<tspan
+   id="tspan107980-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"> </tspan><tspan
+   id="tspan107982-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;/button&gt; </tspan>);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="250.93657"
+         y="401.0943"
+         id="tspan107986-4">}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="250.93657"
+         y="407.19318"
+         id="tspan107990-7">export default <tspan
+   style="fill:#ffffff"
+   id="tspan107988-6">Kid</tspan>;</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,311.04223,405.85904)"
+       id="text108000-3"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108012-7);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252119">src/App.tsx</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,312.50231,458.62297)"
+       id="text108004-1"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108014-4);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252121">Child Compenent. Renders content into index.tsx </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,312.8121,453.94281)"
+       id="text108008-7"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108016-9);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-144.06985"
+         id="tspan252123">src/Kid.tsx</tspan></text>
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#5bd0f0;stroke-width:0.391054;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-6);stop-color:#000000;marker-start:url(#marker197140)"
+       d="m 334.03271,358.67111 c 0,0 1.03853,10.19775 -1.7372,12.94752 -6.02102,5.96473 -9.32162,12.99433 -9.32162,12.99433"
+       id="path152618-5"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,310.98337,411.0898)"
+       id="text107996-9"
+       style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect108010-3);fill:#ffffff"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-229.89258"
+         y="-147.28946"
+         id="tspan252125">Parent Compenent. Renders content into index.tsx </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,-23.66063,225.80239)"
+       id="text197648"
+       style="font-size:12px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect197650)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="35.679688"
+         y="96.229157"
+         id="tspan252129"><tspan
+           style="fill:#ffffff"
+           id="tspan252127">base </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,78.564068,226.43475)"
+       id="text197648-2"
+       style="font-size:12px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect197650-6)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="35.679688"
+         y="96.229157"
+         id="tspan252133"><tspan
+           style="fill:#ffffff"
+           id="tspan252131">variable props </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0583333,0,0,1.0583333,209.85481,226.61218)"
+       id="text197648-2-7"
+       style="font-size:12px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect197650-6-1)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="35.679688"
+         y="96.229157"
+         id="tspan252137"><tspan
+           style="fill:#ffffff"
+           id="tspan252135">function props </tspan></tspan></text>
+    <g
+       id="g215108"
+       transform="translate(-122.52982,21.482488)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#fcfcfc;stroke:#565656;stroke-width:0.496567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 65.559084,520.24964 c 0,-0.8767 -0.400589,-1.5875 -0.894674,-1.5875 H 6.8863943 c -0.4940835,0 -0.8946735,0.7108 -0.8946735,1.5875 v 67.07187 c 0,0.8767 0.40059,1.5875 0.8946735,1.5875 H 64.667391 c 0.494086,0 0.894674,-0.7108 0.894674,-1.5875 v -67.07187 z"
+         id="path3172-8" />
+      <path
+         id="path3769"
+         d="m 65.562065,520.24964 c 0,-0.8767 -0.400609,-1.5875 -0.894718,-1.5875 H 6.8864391 c -0.4941083,0 -0.8947183,0.7108 -0.8947183,1.5875 v 67.07187 c 0,0.8767 0.40061,1.5875 0.8947183,1.5875 H 64.670328 c 0.49411,0 0.894718,-0.7108 0.894718,-1.5875 v -67.07187 z"
+         style="fill:#fcfcfc;stroke:none;stroke-width:0.0993161"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#f18805;stroke:none;stroke-width:5.59499;stroke-linecap:square;paint-order:markers stroke fill"
+         id="rect947"
+         width="11.760198"
+         height="2.1855638"
+         x="7.8668847"
+         y="522.84021" />
+      <path
+         d="m 6.8865597,518.67934 c -0.4941749,0 -0.8948389,0.59553 -0.8948389,1.33006 v 9.60834 H 65.573073 v -9.60834 c 0,-0.73454 -0.400662,-1.33006 -0.894839,-1.33006 z"
+         inkscape:connector-curvature="0"
+         style="fill:#1a1a1a;stroke-width:0.0993228"
+         id="path3172" />
+      <circle
+         style="fill:#b8d41e;fill-opacity:1;stroke-width:0.0742685"
+         id="use4557"
+         cx="11.592757"
+         cy="524.18683"
+         r="0.80314547" />
+      <rect
+         x="18.277643"
+         y="521.80804"
+         width="40.463474"
+         height="4.681273"
+         ry="0.39687499"
+         rx="0.39687499"
+         style="fill:#ffffff;stroke-width:0.0935592"
+         id="rect4561" />
+      <path
+         d="m 21.5838,523.00398 c -0.625462,0 -1.132747,0.50914 -1.132747,1.13689 0,0.62775 0.507246,1.14102 1.132747,1.14102 0.467016,0 0.868243,-0.28464 1.041797,-0.69041 l 0.02894,-0.0703 c -0.130212,-0.0392 -0.232209,-0.0735 -0.351393,-0.11162 l -0.02479,0.0537 c -0.121021,0.26267 -0.387125,0.44236 -0.694531,0.44236 -0.421786,0 -0.760678,-0.34065 -0.760678,-0.76481 0,-0.42415 0.338826,-0.7648 0.760678,-0.7648 0.325265,0 0.592904,0.20886 0.702799,0.49609 h -0.210846 l 0.430754,0.49024 0.453946,-0.49024 h -0.285247 c -0.121923,-0.49663 -0.55966,-0.86816 -1.091406,-0.86816 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;text-indent:0;text-transform:none;fill:#949494;fill-opacity:1;stroke-width:0.132292"
+         sodipodi:nodetypes="sssccccssscccccs"
+         id="path3116" />
       <text
+         x="16.735813"
+         y="524.79865"
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-157.89635,-16.378181)"
-         id="text154759"
-         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect154761)"><tspan
-           x="397.67969"
-           y="-154.78469"
-           id="tspan9650"><tspan
-             style="fill:#5bd0f0"
-             id="tspan9646">&lt;html&gt;</tspan><tspan
-             style="fill:#d53535"
-             id="tspan9648">
-</tspan></tspan><tspan
-           x="397.67969"
-           y="-133.11806"
-           id="tspan9656"><tspan
-             style="fill:#d53535"
-             id="tspan9652">&lt;body&gt;</tspan><tspan
-             style="fill:#ffffff"
-             id="tspan9654">
-</tspan></tspan><tspan
-           x="397.67969"
-           y="-111.45144"
-           id="tspan9666"><tspan
-             style="fill:#f18805"
-             id="tspan9658">&lt;div</tspan><tspan
-             style="fill:#ffffff"
-             id="tspan9660"> id=&quot;root&quot;</tspan><tspan
-             style="fill:#f18805"
-             id="tspan9662">&gt;&lt;/div&gt;</tspan><tspan
-             style="fill:#ffffff"
-             id="tspan9664">
-</tspan></tspan><tspan
-           x="397.67969"
-           y="-89.784813"
-           id="tspan9672"><tspan
-             style="fill:#d53535"
-             id="tspan9668">&lt;/body&gt;</tspan><tspan
-             style="fill:#ffffff"
-             id="tspan9670">
-</tspan></tspan><tspan
-           x="397.67969"
-           y="-68.118187"
-           id="tspan9676"><tspan
-             style="fill:#5bd0f0"
-             id="tspan9674">&lt;html&gt;</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,8.372425,17.625503)"
-         id="text235641"
-         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643);fill:#ffffff"><tspan
-           x="-229.89258"
-           y="-144.06985"
-           id="tspan9678">public/index.html</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458332,0,0,0.26458332,8.2746278,22.553348)"
-         id="text235641-9"
-         style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0);fill:#ffffff"><tspan
-           x="-229.89258"
-           y="-147.28946"
-           id="tspan9680">Canvas for React App</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458332,0,0,0.26458332,73.719279,21.470177)"
-         id="text235641-9-6"
-         style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3);fill:#ffffff"><tspan
-           x="-229.89258"
-           y="-147.28946"
-           id="tspan9682">Renders Content into index.html from Functional Components as App.tsx</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458332,0,0,0.26458332,240.53104,20.715108)"
-         id="text235641-9-6-6"
-         style="font-size:13.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect235643-0-3-0);fill:#ffffff"><tspan
-           x="-229.89258"
-           y="-147.28946"
-           id="tspan9684">Exports Content  where it is imported and called.</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,74.029064,16.790018)"
-         id="text242185"
-         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect242187);fill:#ffffff"><tspan
-           x="-229.89258"
-           y="-144.06985"
-           id="tspan9686">src/index.tsx</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,241.38471,15.373752)"
-         id="text243781"
-         style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect243783);fill:#ffffff"><tspan
-           x="-229.89258"
-           y="-144.06985"
-           id="tspan9688">src/App.tsx</tspan></text>
+         style="font-size:3.175px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+         id="text4412">         <tspan
+   y="524.79865"
+   style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+   x="16.735813"
+   sodipodi:role="line"
+   id="tspan4414">http://example.com</tspan>      </text>
+      <circle
+         style="fill:#d53535;fill-opacity:1;stroke-width:0.0742685"
+         id="circle672"
+         cx="9.4567947"
+         cy="524.19183"
+         r="0.80314547" />
+      <circle
+         style="fill:#fdcf00;fill-opacity:1;stroke-width:0.0742685"
+         id="circle792"
+         cx="13.761128"
+         cy="524.18323"
+         r="0.80314547" />
     </g>
+    <g
+       id="g215095"
+       transform="translate(-69.522219,-82.12078)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#fcfcfc;stroke:#565656;stroke-width:0.496567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 143.76215,513.25403 c 0,-0.8767 -0.40059,-1.5875 -0.89467,-1.5875 H 85.089459 c -0.494083,0 -0.894673,0.7108 -0.894673,1.5875 v 67.07187 c 0,0.8767 0.40059,1.5875 0.894673,1.5875 h 57.781001 c 0.49409,0 0.89467,-0.7108 0.89467,-1.5875 v -67.07187 z"
+         id="path3172-8-89" />
+      <path
+         id="path3769-6"
+         d="m 143.76513,513.25403 c 0,-0.8767 -0.40061,-1.5875 -0.89471,-1.5875 H 85.089504 c -0.494108,0 -0.894718,0.7108 -0.894718,1.5875 v 67.07187 c 0,0.8767 0.40061,1.5875 0.894718,1.5875 H 142.8734 c 0.49411,0 0.89472,-0.7108 0.89472,-1.5875 v -67.07187 z"
+         style="fill:#fcfcfc;stroke:none;stroke-width:0.0993161"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#f18805;stroke:none;stroke-width:5.59499;stroke-linecap:square;paint-order:markers stroke fill"
+         id="rect947-4"
+         width="11.760198"
+         height="2.1855638"
+         x="86.069954"
+         y="515.8446" />
+      <path
+         d="m 85.089625,511.68373 c -0.494175,0 -0.894839,0.59553 -0.894839,1.33006 v 9.60834 h 59.581354 v -9.60834 c 0,-0.73454 -0.40066,-1.33006 -0.89484,-1.33006 z"
+         inkscape:connector-curvature="0"
+         style="fill:#1a1a1a;stroke-width:0.0993228"
+         id="path3172-3" />
+      <circle
+         style="fill:#b8d41e;fill-opacity:1;stroke-width:0.0742685"
+         id="use4557-3"
+         cx="89.795822"
+         cy="517.19122"
+         r="0.80314547" />
+      <rect
+         x="96.480713"
+         y="514.81244"
+         width="40.463474"
+         height="4.681273"
+         ry="0.39687499"
+         rx="0.39687499"
+         style="fill:#ffffff;stroke-width:0.0935592"
+         id="rect4561-3" />
+      <path
+         d="m 99.786865,516.00837 c -0.625462,0 -1.132747,0.50914 -1.132747,1.13689 0,0.62775 0.507246,1.14102 1.132747,1.14102 0.467015,0 0.868245,-0.28464 1.041795,-0.69041 l 0.0289,-0.0703 c -0.13021,-0.0392 -0.23221,-0.0735 -0.35139,-0.11162 l -0.0248,0.0537 c -0.12102,0.26267 -0.38713,0.44236 -0.694532,0.44236 -0.421786,0 -0.760678,-0.34065 -0.760678,-0.76481 0,-0.42415 0.338826,-0.7648 0.760678,-0.7648 0.325262,0 0.592902,0.20886 0.702802,0.49609 h -0.21085 l 0.43075,0.49024 0.45395,-0.49024 h -0.28525 c -0.12192,-0.49663 -0.55966,-0.86816 -1.091402,-0.86816 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;text-indent:0;text-transform:none;fill:#949494;fill-opacity:1;stroke-width:0.132292"
+         sodipodi:nodetypes="sssccccssscccccs"
+         id="path3116-8" />
+      <text
+         x="94.938881"
+         y="517.80304"
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+         id="text4412-6">         <tspan
+   y="517.80304"
+   style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+   x="94.938881"
+   sodipodi:role="line"
+   id="tspan4414-0">http://example.com</tspan>      </text>
+      <circle
+         style="fill:#d53535;fill-opacity:1;stroke-width:0.0742685"
+         id="circle672-4"
+         cx="87.659859"
+         cy="517.19623"
+         r="0.80314547" />
+      <circle
+         style="fill:#fdcf00;fill-opacity:1;stroke-width:0.0742685"
+         id="circle792-8"
+         cx="91.964195"
+         cy="517.18762"
+         r="0.80314547" />
+    </g>
+    <g
+       id="g1087"
+       transform="matrix(0.26458333,0,0,0.26458333,-193.43331,357.87222)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#fcfcfc;stroke:#565656;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 563.396,320.26 c 0,-3.3135 -2.6865,-6 -6,-6 h -387.48 c -3.3135,0 -6,2.6865 -6,6 v 253.5 c 0,3.3135 2.6865,6 6,6 h 387.5 c 3.3135,0 6,-2.6865 6,-6 v -253.5 z"
+         id="path3172-8-8" />
+      <path
+         id="path3769-5"
+         d="m 563.396,320.26 c 0,-3.3135 -2.6865,-6 -6,-6 h -387.48 c -3.3135,0 -6,2.6865 -6,6 v 253.5 c 0,3.3135 2.6865,6 6,6 h 387.5 c 3.3135,0 6,-2.6865 6,-6 v -253.5 z"
+         style="fill:#fcfcfc;stroke:none;stroke-width:0.5"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#f18805;stroke:none;stroke-width:21.1464;stroke-linecap:square;paint-order:markers stroke fill"
+         id="rect947-7"
+         width="44.44799"
+         height="8.2603989"
+         x="171.00323"
+         y="330.05118" />
+      <path
+         d="m 169.916,314.325 c -3.3135,0 -6,2.25085 -6,5.027 v 36.315 h 399.5 v -36.315 c 0,-2.7762 -2.6865,-5.027 -6,-5.027 z"
+         inkscape:connector-curvature="0"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         id="path3172-4" />
+      <circle
+         style="fill:#b8d41e;fill-opacity:1;stroke-width:0.2807"
+         id="use4557-1"
+         cx="191.08527"
+         cy="335.14078"
+         r="3.0355105" />
+      <rect
+         x="222.351"
+         y="326.14999"
+         width="305.76999"
+         height="17.693001"
+         ry="1.5"
+         rx="1.5"
+         style="fill:#ffffff;stroke-width:0.5"
+         id="rect4561-8" />
+      <path
+         d="m 236.686,330.69 c -2.36395,0 -4.28125,1.9243 -4.28125,4.2969 0,2.3726 1.91715,4.3125 4.28125,4.3125 1.7651,0 3.28155,-1.0758 3.9375,-2.6094 l 0.10937,-0.26563 c -0.49214,-0.14803 -0.87764,-0.27789 -1.3281,-0.42187 l -0.0937,0.20312 c -0.4574,0.99275 -1.46315,1.6719 -2.625,1.6719 -1.59415,0 -2.875,-1.2875 -2.875,-2.8906 0,-1.6031 1.2806,-2.8906 2.875,-2.8906 1.22935,0 2.2409,0.7894 2.65625,1.875 h -0.7969 l 1.62805,1.85285 1.7157,-1.85285 h -1.0781 c -0.46081,-1.87705 -2.11525,-3.28125 -4.125,-3.28125 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;text-indent:0;text-transform:none;fill:#949494;fill-opacity:1;stroke-width:0.5"
+         sodipodi:nodetypes="sssccccssscccccs"
+         id="path3116-5" />
+      <rect
+         x="539.32098"
+         y="330.47501"
+         width="11.466"
+         height="2.4281499"
+         style="fill:#949494;fill-opacity:1;stroke-width:0.5"
+         id="rect3935-9" />
+      <use
+         x="0"
+         y="0"
+         width="1600"
+         height="1000"
+         transform="translate(0,3.30495)"
+         xlink:href="#rect3935-9"
+         id="use3937-7"
+         style="fill:#949494;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         width="1600"
+         height="1000"
+         transform="translate(0,3.30495)"
+         xlink:href="#use3937-7"
+         id="use3939-5"
+         style="fill:#949494;fill-opacity:1" />
+      <rect
+         x="163.916"
+         y="355.39499"
+         width="399.5"
+         height="1.23115"
+         style="fill:#dedede;stroke-width:0.5"
+         id="rect4551-3" />
+      <text
+         x="247.11682"
+         y="337.47412"
+         xml:space="preserve"
+         style="line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b5b5b;fill-opacity:1"
+         id="text4412-8">         <tspan
+   y="337.47412"
+   style="font-size:8px;line-height:1.25;font-family:sans-serif;fill:#5b5b5b;fill-opacity:1"
+   x="247.11682"
+   sodipodi:role="line"
+   id="tspan4414-8">http://example.com</tspan>      </text>
+      <circle
+         style="fill:#d53535;fill-opacity:1;stroke-width:0.2807"
+         id="circle672-3"
+         cx="177.01234"
+         cy="335.15964"
+         r="3.0355105" />
+      <circle
+         style="fill:#fdcf00;fill-opacity:1;stroke-width:0.2807"
+         id="circle792-1"
+         cx="207.28069"
+         cy="335.12698"
+         r="3.0355105" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.52916666,0,0,0.52916666,-9.6371442,-420.06654)"
+       id="text217706"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect217708)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="50.388672"
+         y="1645.7485"
+         id="tspan252141"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Mukta Bold'"
+           id="tspan252139">Kid say Hi!</tspan></tspan></text>
+    <g
+       id="g215095-8"
+       transform="translate(34.926885,-83.389194)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#fcfcfc;stroke:#565656;stroke-width:0.496567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 143.76215,513.25403 c 0,-0.8767 -0.40059,-1.5875 -0.89467,-1.5875 H 85.089459 c -0.494083,0 -0.894673,0.7108 -0.894673,1.5875 v 67.07187 c 0,0.8767 0.40059,1.5875 0.894673,1.5875 h 57.781001 c 0.49409,0 0.89467,-0.7108 0.89467,-1.5875 v -67.07187 z"
+         id="path3172-8-89-9" />
+      <path
+         id="path3769-6-7"
+         d="m 143.76513,513.25403 c 0,-0.8767 -0.40061,-1.5875 -0.89471,-1.5875 H 85.089504 c -0.494108,0 -0.894718,0.7108 -0.894718,1.5875 v 67.07187 c 0,0.8767 0.40061,1.5875 0.894718,1.5875 H 142.8734 c 0.49411,0 0.89472,-0.7108 0.89472,-1.5875 v -67.07187 z"
+         style="fill:#fcfcfc;stroke:none;stroke-width:0.0993161"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#f18805;stroke:none;stroke-width:5.59499;stroke-linecap:square;paint-order:markers stroke fill"
+         id="rect947-4-7"
+         width="11.760198"
+         height="2.1855638"
+         x="86.069954"
+         y="515.8446" />
+      <path
+         d="m 85.089625,511.68373 c -0.494175,0 -0.894839,0.59553 -0.894839,1.33006 v 9.60834 h 59.581354 v -9.60834 c 0,-0.73454 -0.40066,-1.33006 -0.89484,-1.33006 z"
+         inkscape:connector-curvature="0"
+         style="fill:#1a1a1a;stroke-width:0.0993228"
+         id="path3172-3-6" />
+      <circle
+         style="fill:#b8d41e;fill-opacity:1;stroke-width:0.0742685"
+         id="use4557-3-4"
+         cx="89.795822"
+         cy="517.19122"
+         r="0.80314547" />
+      <rect
+         x="96.480713"
+         y="514.81244"
+         width="40.463474"
+         height="4.681273"
+         ry="0.39687499"
+         rx="0.39687499"
+         style="fill:#ffffff;stroke-width:0.0935592"
+         id="rect4561-3-3" />
+      <path
+         d="m 99.786865,516.00837 c -0.625462,0 -1.132747,0.50914 -1.132747,1.13689 0,0.62775 0.507246,1.14102 1.132747,1.14102 0.467015,0 0.868245,-0.28464 1.041795,-0.69041 l 0.0289,-0.0703 c -0.13021,-0.0392 -0.23221,-0.0735 -0.35139,-0.11162 l -0.0248,0.0537 c -0.12102,0.26267 -0.38713,0.44236 -0.694532,0.44236 -0.421786,0 -0.760678,-0.34065 -0.760678,-0.76481 0,-0.42415 0.338826,-0.7648 0.760678,-0.7648 0.325262,0 0.592902,0.20886 0.702802,0.49609 h -0.21085 l 0.43075,0.49024 0.45395,-0.49024 h -0.28525 c -0.12192,-0.49663 -0.55966,-0.86816 -1.091402,-0.86816 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;text-indent:0;text-transform:none;fill:#949494;fill-opacity:1;stroke-width:0.132292"
+         sodipodi:nodetypes="sssccccssscccccs"
+         id="path3116-8-0" />
+      <text
+         x="94.938881"
+         y="517.80304"
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+         id="text4412-6-3">         <tspan
+   y="517.80304"
+   style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+   x="94.938881"
+   sodipodi:role="line"
+   id="tspan4414-0-0">http://example.com</tspan>      </text>
+      <circle
+         style="fill:#d53535;fill-opacity:1;stroke-width:0.0742685"
+         id="circle672-4-9"
+         cx="87.659859"
+         cy="517.19623"
+         r="0.80314547" />
+      <circle
+         style="fill:#fdcf00;fill-opacity:1;stroke-width:0.0742685"
+         id="circle792-8-2"
+         cx="91.964195"
+         cy="517.18762"
+         r="0.80314547" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.52916666,0,0,0.52916666,94.414377,-422.23222)"
+       id="text217706-5"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect217708-8)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="50.388672"
+         y="1645.7485"
+         id="tspan252145"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Mukta Bold'"
+           id="tspan252143">Kiddo say Hi!</tspan></tspan></text>
+    <g
+       id="g215095-8-0"
+       transform="translate(164.74753,-82.144083)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#fcfcfc;stroke:#565656;stroke-width:0.496567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 143.76215,513.25403 c 0,-0.8767 -0.40059,-1.5875 -0.89467,-1.5875 H 85.089459 c -0.494083,0 -0.894673,0.7108 -0.894673,1.5875 v 67.07187 c 0,0.8767 0.40059,1.5875 0.894673,1.5875 h 57.781001 c 0.49409,0 0.89467,-0.7108 0.89467,-1.5875 v -67.07187 z"
+         id="path3172-8-89-9-5" />
+      <path
+         id="path3769-6-7-9"
+         d="m 143.76513,513.25403 c 0,-0.8767 -0.40061,-1.5875 -0.89471,-1.5875 H 85.089504 c -0.494108,0 -0.894718,0.7108 -0.894718,1.5875 v 67.07187 c 0,0.8767 0.40061,1.5875 0.894718,1.5875 H 142.8734 c 0.49411,0 0.89472,-0.7108 0.89472,-1.5875 v -67.07187 z"
+         style="fill:#fcfcfc;stroke:none;stroke-width:0.0993161"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#f18805;stroke:none;stroke-width:5.59499;stroke-linecap:square;paint-order:markers stroke fill"
+         id="rect947-4-7-4"
+         width="11.760198"
+         height="2.1855638"
+         x="86.069954"
+         y="515.8446" />
+      <path
+         d="m 85.089625,511.68373 c -0.494175,0 -0.894839,0.59553 -0.894839,1.33006 v 9.60834 h 59.581354 v -9.60834 c 0,-0.73454 -0.40066,-1.33006 -0.89484,-1.33006 z"
+         inkscape:connector-curvature="0"
+         style="fill:#1a1a1a;stroke-width:0.0993228"
+         id="path3172-3-6-6" />
+      <circle
+         style="fill:#b8d41e;fill-opacity:1;stroke-width:0.0742685"
+         id="use4557-3-4-9"
+         cx="89.795822"
+         cy="517.19122"
+         r="0.80314547" />
+      <rect
+         x="96.480713"
+         y="514.81244"
+         width="40.463474"
+         height="4.681273"
+         ry="0.39687499"
+         rx="0.39687499"
+         style="fill:#ffffff;stroke-width:0.0935592"
+         id="rect4561-3-3-2" />
+      <path
+         d="m 99.786865,516.00837 c -0.625462,0 -1.132747,0.50914 -1.132747,1.13689 0,0.62775 0.507246,1.14102 1.132747,1.14102 0.467015,0 0.868245,-0.28464 1.041795,-0.69041 l 0.0289,-0.0703 c -0.13021,-0.0392 -0.23221,-0.0735 -0.35139,-0.11162 l -0.0248,0.0537 c -0.12102,0.26267 -0.38713,0.44236 -0.694532,0.44236 -0.421786,0 -0.760678,-0.34065 -0.760678,-0.76481 0,-0.42415 0.338826,-0.7648 0.760678,-0.7648 0.325262,0 0.592902,0.20886 0.702802,0.49609 h -0.21085 l 0.43075,0.49024 0.45395,-0.49024 h -0.28525 c -0.12192,-0.49663 -0.55966,-0.86816 -1.091402,-0.86816 z"
+         inkscape:connector-curvature="0"
+         style="color:#000000;text-indent:0;text-transform:none;fill:#949494;fill-opacity:1;stroke-width:0.132292"
+         sodipodi:nodetypes="sssccccssscccccs"
+         id="path3116-8-0-2" />
+      <text
+         x="94.938881"
+         y="517.80304"
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+         id="text4412-6-3-4">         <tspan
+   y="517.80304"
+   style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+   x="94.938881"
+   sodipodi:role="line"
+   id="tspan4414-0-0-7">http://example.com</tspan>      </text>
+      <circle
+         style="fill:#d53535;fill-opacity:1;stroke-width:0.0742685"
+         id="circle672-4-9-7"
+         cx="87.659859"
+         cy="517.19623"
+         r="0.80314547" />
+      <circle
+         style="fill:#fdcf00;fill-opacity:1;stroke-width:0.0742685"
+         id="circle792-8-2-5"
+         cx="91.964195"
+         cy="517.18762"
+         r="0.80314547" />
+    </g>
+    <rect
+       style="fill:#6dc381;fill-opacity:1;stroke:none;stroke-width:0.391054;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect223938"
+       width="22.14118"
+       height="8.7742853"
+       x="251.7644"
+       y="443.63385"
+       ry="2.3542821"
+       rx="2.3542821"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.819335,15.388568)"
+       id="text227004"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect227006)"><tspan
+         x="955.18359"
+         y="1669.2895"
+         id="tspan252149"><tspan
+           dx="0 7.6613088 3.9866509 4.2639637 7.6613092 4.2639637 8.7359772 3.8479614 14.282631"
+           id="tspan252147">clicje me</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.3527097,13.721787)"
+       id="text230082"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect230084)"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="951.68555"
+         y="1647.393"
+         id="tspan252151">click me</tspan></text>
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.352885;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect230212"
+       width="59.688332"
+       height="24.51465"
+       x="248.80504"
+       y="475.57993"
+       ry="2.3542812"
+       rx="2.3542812"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458332,0,0,0.26458332,5.6168531,21.292835)"
+       id="text234196"
+       style="font-size:17.3333px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect234198);fill:#66ff00"
+       inkscape:export-filename="/home/pj/Projects/learnableBytes/react_props.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="934.41797"
+         y="1743.5337"
+         id="tspan252153">it works</tspan></text>
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.472198;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect243086"
+       width="151.19928"
+       height="216.60678"
+       x="481.64377"
+       y="291.68237"
+       rx="2.3542812"
+       ry="2.3542812" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.819335,15.388568)"
+       id="text246380"
+       style="line-height:1.25;font-family:Mukta;font-size:17.33333333px;-inkscape-font-specification:Mukta;white-space:pre;shape-inside:url(#rect246382)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Mukta;-inkscape-font-specification:Mukta;fill:#ffffff;stroke-width:0.264583"
+       x="490.11072"
+       y="314.08075"
+       id="text107962-8-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="490.11072"
+         y="314.08075"
+         id="tspan107936-1-1">import <tspan
+   style="fill:#f18805"
+   id="tspan107932-2-2">Kid</tspan> from <tspan
+   style="fill:#b8d41e"
+   id="tspan107934-9-8">'./Kid'</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="490.11072"
+         y="320.17963"
+         id="tspan107948-3-9"><tspan
+   style="fill:#f18805"
+   id="tspan107938-9-3">const</tspan> <tspan
+   style="fill:#5bd0f0"
+   id="tspan107940-0-6">App</tspan> <tspan
+   id="tspan107942-8-8"
+   style="fill:#f18805">=</tspan><tspan
+   style="fill:#5bd0f0"
+   id="tspan107946-8-0">() <tspan
+   style="fill:#f18805"
+   id="tspan107944-5-2">=&gt;</tspan> {</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="490.11072"
+         y="326.2785"
+         id="tspan160517-1">const testfunc = () =&gt; console.log('it works')</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;stroke-width:0.264583"
+         x="490.11072"
+         y="332.37738"
+         id="tspan107958-0-0"><tspan
+   style="fill:#5bd0f0"
+   id="tspan107950-9-5">return</tspan> ( <tspan
+   id="tspan107952-6-1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;div&gt;</tspan><tspan
+   id="tspan107954-3-1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#f18805;stroke-width:0.264583"> &lt;Kid <tspan
+   style="fill:#ffffff"
+   id="tspan143836-8-0">funky={testfunc}</tspan> /&gt; </tspan><tspan
+   id="tspan107956-6-8"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#d53535;stroke-width:0.264583">&lt;/div&gt; </tspan>);</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#5bd0f0;stroke-width:0.264583"
+         x="490.11072"
+         y="338.47626"
+         id="tspan107960-1-5">}</tspan></text>
   </g>
 </svg>
