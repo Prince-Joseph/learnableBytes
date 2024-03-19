@@ -56,9 +56,9 @@ we blacklist a refresh token and delete blacklisted tokens using a cron job peri
 8. logout request
 9. forget password flow
 10. otp for mail 
-11. send ing mail
+11. send in mail
 12. checking otp
 13. updating password 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzY2MDQ0OV19
+eyJoaXN0b3J5IjpbMTc3MDgzMDg0MCwtMzUzNjYwNDQ5XX0=
 -->
