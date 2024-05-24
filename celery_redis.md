@@ -1,3 +1,4 @@
+# using celery as an async task scheduler
 
 Celery is a distributed task queue system that can be used with Django to execute tasks asynchronously or in the background. 
 ## Step 1: Install Celery and Celery Beat
@@ -28,8 +29,8 @@ app.conf.beat_schedule = {    'sync-db-every-2-minutes': {        'task': 'myapp
 Start Celery Worker```celery -A myproject worker --loglevel=info```
 Start Celery Beat```celery -A myproject beat --loglevel=info```
 
-
+---
+Author: Namratha Shiv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM5MzgwNjAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjQxMzY3MjY2LC0yMDg4NzQ2NjEyXX0=
 -->
