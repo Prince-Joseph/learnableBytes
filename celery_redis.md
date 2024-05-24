@@ -30,7 +30,8 @@ Start Celery Worker```celery -A myproject worker --loglevel=info```
 Start Celery Beat```celery -A myproject beat --loglevel=info```
 
 ---
-Author: Namratha Shiv
+Author: Namratha Shivani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMzY3MjY2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEyNDE2OTY0MjYsLTIwODg3NDY2MTJdfQ
+==
 -->
