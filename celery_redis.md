@@ -2,6 +2,11 @@
 
 Celery is a distributed task queue system that can be used with Django to execute tasks asynchronously or in the background. 
 
+## Explanation
+we need
+- celery task work
+- celery scheduler (`celery beat`)
+
 ## Step 1: Install Celery and Celery Beat
 
 Install Celery and a message broker (like Redis) to use it for background task processing. Celery needs Redis to receive tasks from the Django application and distribute them to the Celery workers for execution.
@@ -72,7 +77,7 @@ import json
 
 @shared_task
 def sample_task():
-    print('a random log')
+    print('a random log')
 
 ```
 
@@ -107,5 +112,5 @@ celery -A myproject beat --loglevel=info
 Authored-by: Namratha Shivani  <cactus001@users.noreply.github.com>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYzOTUxXX0=
+eyJoaXN0b3J5IjpbMTU3ODk1ODk4MF19
 -->
