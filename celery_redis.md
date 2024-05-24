@@ -4,8 +4,14 @@ Celery is a distributed task queue system that can be used with Django to execut
 
 ## Explanation
 we need
-- celery task work
-- celery scheduler (`celery beat`)
+- celery task workers in `sdsd/filename.py`
+- celery scheduler (`celery beat`) in `filename.py`
+
+```mermaid
+graph LR
+A[Celery Beat] ---> B[Celery worker 1]
+A ---> C[Celery worker 2]
+```
 
 ## Step 1: Install Celery and Celery Beat
 
@@ -112,5 +118,5 @@ celery -A myproject beat --loglevel=info
 Authored-by: Namratha Shivani  <cactus001@users.noreply.github.com>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODk1ODk4MF19
+eyJoaXN0b3J5IjpbNzk4ODU5MTk0XX0=
 -->
