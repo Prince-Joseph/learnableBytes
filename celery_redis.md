@@ -106,3 +106,6 @@ celery -A myproject beat --loglevel=info
 ---
 Authored-by: Namratha Shivani  <cactus001@users.noreply.github.com>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NjYzOTUxXX0=
+-->
